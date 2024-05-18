@@ -13,7 +13,9 @@ Weather Display: After you type in the place and hit the search button, the app 
 Behind the Scenes: The app is built using three cool technologies:
 
 HTML: This is like the building blocks of our app. It creates the structure, kind of like how LEGO bricks build a house.
+
 CSS: This is the paint and decorations. It makes our app look nice and colorful.
+
 JavaScript: This is the magic part! It makes the app smart so it can talk to the weather service and get the information you need.
 
 <b>The OpenWeather API </b>
