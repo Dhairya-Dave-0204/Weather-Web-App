@@ -17,6 +17,7 @@ CSS: This is the paint and decorations. It makes our app look nice and colorful.
 JavaScript: This is the magic part! It makes the app smart so it can talk to the weather service and get the information you need.
 
 <b>The OpenWeather API </b>
+
 To find out the weather, our app talks to a special service called a OpenWeather API. An API is like a helper that knows a lot about the weather. Our app asks the API for the weather in the place you typed, and the API sends back the information. The best part is, this API is free to use, so everyone can enjoy it!
 
 <b>Features</b>
