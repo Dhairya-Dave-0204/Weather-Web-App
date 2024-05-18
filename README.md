@@ -3,6 +3,7 @@
 Welcome to the Weather Web App project! 🌤️ This is a simple and fun app that lets you find out the weather in any place you want. Just type in the name of the place, and it will show you if it’s sunny, rainy, or cloudy. It’s like having your very own weather station on your computer!
 
 <b>How It Works</b>
+
 Here’s how the Weather Web App works:
 
 Search Field: There is a little box where you can type in the name of a place. This could be your city, your friend’s city, or even a place you dream of visiting one day!
